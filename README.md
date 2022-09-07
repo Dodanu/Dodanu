@@ -5,8 +5,8 @@
     Old tehnology(especially the RCAVictor CED);
 - I’m currently learning C++ and C#
 - I’m looking to collaborate on:
--  Retro SEGA projects;
--  My own projects;
+      Retro SEGA projects;
+      My own projects;
 - How to reach me: dodannetscape@gmail.com
 
 <!---
